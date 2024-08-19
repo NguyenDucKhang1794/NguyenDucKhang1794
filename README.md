@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, especially in VB.NET and database management.
 - 🌱 I’m currently learning advanced VB.NET, MS SQL, and how to optimize development processes in my construction company.
 - 💞️ I’m looking to collaborate on projects related to automation, software tools for construction, and process improvement.
-- 📫 How to reach me or through GitHub
+- 📫 How to reach me duc_khang@sanei-shouji.co.jp or through GitHub
 - 😄 Pronouns He/Him
 - ⚡ Fun fact: I work in the construction industry but have a deep passion for coding and improving technical workflows.
 
